@@ -1,0 +1,334 @@
+[
+    {
+        "id":1,
+
+        "img":"https://i.ibb.co/dK3KcfT/189756927-336188447866116-841939245221537487-n.jpg",
+
+        "name":"Sanjeev Kapoor",
+
+        "experience":"30",
+
+        "recipes_number": 3,
+
+        "lik":200,
+        
+
+        "bio":"Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time. The event was broadcast in 120 countries and received over 500 million viewers in 2010. Indian food is his cooking style. Mr. Kapoor was born in Ambala, Haryana, India, on April 10, 1964. He began his career in the hospitality sector in 1984. Alyona Kapoor, his wife, is also a partner in his company, Turmeric Vision Pvt. Ltd. Sanjeev Kapoor joined the Centaur Hotel in Mumbai as the youngest Executive Chef in 1992.",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    },
+    {
+        "id":2,
+
+        "img":"https://i.ibb.co/jV9Nrw3/vikas-khanna-650-010320054708.jpg",
+
+        "name":"Vikas Khanna",
+
+        "experience":"22",
+
+        "like": 200,
+
+        "recipes_number": 3,
+
+        
+        
+
+        "bio":"Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India series that was telecasted on Star Plus. He got inspiration for cooking from his grandmother. He was only 17 when he opened Lawrence Gardens Banquets to host weddings and functions. Vikas Khanna completed his graduation from Manipal Academy of Higher Education and doctorate from GD Goenka University. In New York, he started his restaurant named 'Junoon' and in 2020, he opened a restaurant Ellora in Dubai.In 2018, Vikas Khanna opened the country's first culinary museum in Manipal. He debuted as a director with the film The Last Color. Indian food is his cooking style. Honors and Awards",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    },
+    {
+        "id":3,
+
+        "img":"https://i.ibb.co/9tJQNkF/Image-about-me-ranveer-brar.png",
+
+        "name":"Ranveer Brar",
+
+        "experience":"12",
+
+        "like": 200,
+
+        "recipes_number": 3,
+
+        
+        
+
+        "bio":"Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach. Other than this, he is also a supervisor at the Dosa Factory and Shalimar in Cambridge. He began his career at the Taj Hotel, Mumbai after completing his education at IHM, Lucknow.Mr. Brar started his TV career with Breakfast Xpress. He has appeared in various shows as a judge or host such as Zee Khana Khazana, Zoom's Thank Got Its Friday, Masterchef India, Raja Rasoi Aur Andaaz Anokha, Rasoi ki Jung Mummiyon ke Sung, Health Bhi Taste Bhi, and others. In 2016, Ranveer Brar launched his first book titled 'Come Into My Kitchen' an autobiography. Other than this, in 2019, he launched his mobile app also.",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    },
+    {
+        "id":4,
+
+        "img":"https://i.ibb.co/g4wLskk/thai-noodle-curry.jpg",
+
+        "name":"Anjum Anand",
+
+        "experience":"4",
+
+        "like": 200,
+
+        "recipes_number": 3,
+
+       
+        
+
+        "bio":"Anjum Anand is an Indian British TV chef and food writer. She was born on 15 August 1971 in London, England. She completed her education at the Business Administration School of Geneva. Her cooking style is Indian cuisine. Other than England, she owns two-family homes; one in Delhi and the other in Calcutta.Anjum is focused more on healthy food. This perspective was developed in her when she faced weight problems while growing up. She wrote her first cookbook at the age of 25. From 2004 to 2007, she was a regular guest of UKTV Food's Great Food Live. Other than this, she has appeared on shows such as Anjum's Spice Stories, Market Kitchen, and Indian Food Made Easy. She also owns an Indian sauces brand named The Spice Tailor which was started in 2011. ",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    },
+    {
+        "id":5,
+
+        "img":"https://i.ibb.co/PTwV7vf/Chef-Saransh-Goila-1200x1200.png",
+
+        "name":"Saransh Goila",
+
+        "experience":"9",
+
+        "like": 200,
+
+        "recipes_number": 3,
+
+       
+        
+
+        "bio":"Saransh Goila is an Indian chef and restaurateur. He was born on 17 February 1987 in Delhi, India. He completed his education at the Institute of Hotel Management, Aurangabad. His cooking style is Indian cuisine.Mr. Saransh is the owner of 'Goila Butter Chicken' located in Mumbai and also the author of the acclaimed travelogue 'India on my Platter'. He is the host of TV shows Roti Rasta aur India and Healthy Fridge. In 2013, he became a participant in the show Sanjeev Kapoor ke Kitchen Khiladi also. In 2018, he was the host of the web series 'Run to Eat'.",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    },
+    {
+        "id":6,
+
+        "img":"https://i.ibb.co/FXJ1337/z-C19peyy-Harpal-Image-3-1-Borosil-1200x900.jpg",
+
+        "name":"Harpal Singh Sokhi",
+
+        "experience":"10",
+
+        "like": 200,
+        "recipes_number": 3,
+
+       
+        
+
+        "bio":"Harpal Singh Sokhi is an Indian chef, restaurateur, author, and entrepreneur. He was born in 1966 in Kharagpur, West Bengal, India. He worked as a chef with various hotels and restaurant chains. Later, in 2013, he started his chain 'The Punjabi Tadka'. Other than this, he has hosted the show Turban Tadka. He is very popular for his famous phrase and song 'Namak Shamak'. His cooking style is Indian cuisine. At the beginning of his career, he worked at The Oberoi in Bhubaneswar.Sokhi has organized the Indian Food Festivals internationally. In 2001, he founded Khana Khazana Pvt. Ltd with others. He has also worked as a guest teacher at the N. L. Dalmia Institute of Management Studies and Research. He was also a participant at Jhalak Dikhla Jaa 9. Mr. Harpal has written food columns and a book titled 'Royal Hyderabadi Cooking' (authored with Sanjeev Kapoor).",
+
+        "recipes":[
+            {
+              "recipes_name":"Pork Vindaloo",
+              
+               "rating":4,
+
+                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+
+                "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
+
+            },
+            {
+              "recipes_name":"Paneer Jalfrezi",
+              
+               "rating":5,
+
+                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+
+                "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
+
+            },
+            {
+              "recipes_name":"Chicken Tikkas",
+              
+               "rating":3,
+
+                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+
+                "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
+
+            }
+
+
+
+        ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+]

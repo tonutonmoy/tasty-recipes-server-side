@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+
+        "img":"https://i.ibb.co/dK3KcfT/189756927-336188447866116-841939245221537487-n.jpg",
+
+        "name":"Sanjeev Kapoor",
+
+        "experience":"30",
+
+        "like": 200
+
+    },
+    {
+        "id":2,
+
+        "img":"https://i.ibb.co/jV9Nrw3/vikas-khanna-650-010320054708.jpg",
+
+        "name":"Vikas Khanna",
+
+        "experience":"22",
+
+        "like": 200
+
+    },
+    {
+        "id":3,
+
+        "img":"https://i.ibb.co/9tJQNkF/Image-about-me-ranveer-brar.png",
+
+        "name":"Ranveer Brar",
+
+        "experience":"12",
+
+        "like": 200
+
+    },
+    {
+        "id":4,
+
+        "img":"https://i.ibb.co/g4wLskk/thai-noodle-curry.jpg",
+
+        "name":"Anjum Anand",
+
+        "experience":"4",
+
+        "like": 200
+
+    },
+    {
+        "id":5,
+
+        "img":"https://i.ibb.co/PTwV7vf/Chef-Saransh-Goila-1200x1200.png",
+
+        "name":"Saransh Goila",
+
+        "experience":"9",
+
+        "like": 200
+
+    },
+    {
+        "id":6,
+
+        "img":"https://i.ibb.co/FXJ1337/z-C19peyy-Harpal-Image-3-1-Borosil-1200x900.jpg",
+
+        "name":"Harpal Singh Sokhi",
+
+        "experience":"10",
+
+        "like": 200
+
+    }
+]
