@@ -10,7 +10,7 @@
 
         "recipes_number": 3,
 
-        "lik":200,
+        "like":200,
         
 
         "bio":"Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time. The event was broadcast in 120 countries and received over 500 million viewers in 2010. Indian food is his cooking style. Mr. Kapoor was born in Ambala, Haryana, India, on April 10, 1964. He began his career in the hospitality sector in 1984. Alyona Kapoor, his wife, is also a partner in his company, Turmeric Vision Pvt. Ltd. Sanjeev Kapoor joined the Centaur Hotel in Mumbai as the youngest Executive Chef in 1992.",
@@ -21,7 +21,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -31,7 +31,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -41,7 +41,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
@@ -75,7 +75,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -85,7 +85,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -95,7 +95,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
@@ -129,7 +129,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -139,7 +139,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -149,7 +149,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
@@ -183,7 +183,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -193,7 +193,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -203,7 +203,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
@@ -237,7 +237,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -247,7 +247,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -257,7 +257,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
@@ -290,7 +290,7 @@
               
                "rating":4,
 
-                "cooke":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
+                "cooking_method":"You can make this curry with pork, chicken, beef, lamb, goat or even shrimp. The method is the same. If you’re using chicken, make it either with a whole chicken cut up into pieces or with skinless bone-in or boneless thighs, as dark meat gets tender and fall off the bone in curries.If using beef, go for fattier marbled cuts for best results. Chuck is ideal, like any other stewToday I feel like cooking with pork. Pork shoulder or butt is ideal for vindaloo, as it cooks low and slow. The curry takes on more depth and richness as the fat renders into the gravy. That being said, for a leaner dish you can also use loin.",
 
                 "ingredients":["Onions","Bay leaves","Salt","Sugar","vinegar"]
 
@@ -300,7 +300,7 @@
               
                "rating":5,
 
-                "cooke":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
+                "cooking_method":"Like any stir fry, you need to do a lot of chopping in the beginning and from then it’s a breeze.I love my veggies in strips or slices for this recipe, rather than chopping everything into cubes. Cut onions, tomato, bell peppers in strips. Slice garlic and chop ginger into juliennes.Heat oil or ghee in a pan and add in cumin seeds. Cook until they start to pop, about a minute. Add in onion and whole chilis, broken into pieces, and sauté. You can skip these chilies if you’re looking for a milder version. Once the onions are soft, add in garlic and sauté for a minute.Time to add bell peppers along with all the spices and salt. Mix well and cook for 2-3 minutes on high heat.Stir in tomato puree along with ginger and cook for another couple of minutes. You want the bell peppers to be a little soft but to still hold the cruncAdd in tomato slices along with paneer strips and toss everything well. Cook for 2-3 minutes till the paneer gets a little soft.Stir in cilantro and toss everything well. That’s it… This super duper stir fry is ready to serve. You will be amazed how many flavors develop with just a few Indian pantry staples.",
 
                 "ingredients":["Paneer","Veggies ","Aromatics","Spices","Oil or ghee"]
 
@@ -310,7 +310,7 @@
               
                "rating":3,
 
-                "cooke":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
+                "cooking_method":"The most important thing for mouth watering, juicy, tender chicken tikkas is the perfect marination. During marination the chicken absorbs the flavors from different spices and herbs and is naturally tenderized. For this reason, you should marinate your chicken at least 5-6 hours.So if you can’t marinate overnight, I suggest starting first thing in the morning. It’s a very easy yogurt based marinade, with mostly pantry staples. If you are missing a few of the ingredients, go ahead and make it anyway, it’s going to turn awesome.",
 
                 "ingredients":["Boneless chicken","Butter or ghee ","Yogurt","Garlic paste","Ginger paste"]
 
